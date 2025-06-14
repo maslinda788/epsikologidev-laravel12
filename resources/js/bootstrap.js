@@ -1,3 +1,5 @@
+import 'bootstrap';
+import '@popperjs/core';
 import axios from 'axios';
 window.axios = axios;
 
